@@ -1,4 +1,4 @@
-name: PHP2Shell check
+name: PHP2Shell Patch Check by Entidex
 description: Read-only check that the PHP on this runner or image includes the PHP2Shell fix (CVE-2026-109618, CVE-2026-109619).
 author: Entidex
 branding:
